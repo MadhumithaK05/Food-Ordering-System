@@ -1,1 +1,2 @@
 # Food-Ordering-System
+The Food Ordering System is a sophisticated web-based platform tailored for students to purchase food items online. This system facilitates user registration and login, enabling students to browse through a diverse menu and make purchases of their desired food selections. Crafted with a blend of HTML, CSS, PHP, and JavaScript, this platform offers a seamless and intuitive user experience for food ordering.
